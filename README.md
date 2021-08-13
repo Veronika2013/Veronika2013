@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Veronika2013
+- 👀 I’m interested in C++, Qt, Boost Asio, Python, OpenCV...
+- 🌱 I’m currently learning Python/Numpy and OpenCV
